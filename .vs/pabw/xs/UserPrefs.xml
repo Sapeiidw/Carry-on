@@ -1,4 +1,27 @@
-﻿<Properties StartupConfiguration="{8C5A4B9D-11FE-4B97-9D38-186AC0053C3E}|Default">
-  <MonoDevelop.Ide.ItemProperties.pabw FirstBuild="True" />
+﻿<Properties StartupConfiguration="{7BA1D149-9FFE-409B-91AA-0C836FB54C4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+    <Files>
+      <File FileName="contactus.html" Line="1" Column="1" />
+      <File FileName="index.html" Line="41" Column="9" />
+      <File FileName="../CarryOn/index.html" Line="47" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pabw" expanded="True">
+            <Node name="pabw" expanded="True">
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pabw PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,6 @@
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/conFusion.csprojAssemblyReference.cache
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/staticwebassets/conFusion.StaticWebAssets.Manifest.cache
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/staticwebassets/conFusion.StaticWebAssets.xml
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/conFusion.MvcApplicationPartsAssemblyInfo.cache
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/conFusion.AssemblyInfoInputs.cache
+/Users/bernardsbhima/Documents/git-test/Bootstrap4/conFusion/obj/Debug/netcoreapp3.1/conFusion.AssemblyInfo.cs

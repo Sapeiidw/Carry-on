@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A5DEACB2-091E-4225-BEBA-5B765327F06C}|Default">
+  <MonoDevelop.Ide.ItemProperties.conFusion PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+    <Files>
+      <File FileName="index.html" Line="181" Column="30" />
+      <File FileName="../Webmantap/index.php" Line="20" Column="1" />
+      <File FileName="../week-4/Bootstrap4/conFusion/index.html" Line="1" Column="1" />
+      <File FileName="css/styles.css" Line="9" Column="23" />
+      <File FileName="contactus.html" Line="155" Column="1" />
+      <File FileName="aboutus.html" Line="63" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="conFusion" expanded="True">
+            <Node name="conFusion" expanded="True">
+              <Node name="css" expanded="True">
+                <Node name="styles.less" expanded="True" />
+              </Node>
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
